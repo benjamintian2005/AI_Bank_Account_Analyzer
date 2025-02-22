@@ -12,7 +12,7 @@ The AI Bank Account Analyzer is a tool designed to analyze and categorize bank t
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/AI-Bank-Account-Analyzer.git
+   git clone https://github.com/yourus](https://github.com/benjamintian2005/AI_Bank_Account_Analyzer
    ```
 2. Navigate to the project directory:
    ```sh
@@ -26,7 +26,9 @@ The AI Bank Account Analyzer is a tool designed to analyze and categorize bank t
 ## Usage
 1. Run the analyzer:
    ```sh
-   python main.py --input transactions.csv
+   python app.py
+   cd my-app
+   npm run dev
    ```
 2. View the categorized transactions and insights in the output file or console.
 
@@ -35,8 +37,8 @@ The AI Bank Account Analyzer is a tool designed to analyze and categorize bank t
 
 ## Technologies Used
 - Python
-- Pandas for data processing
-- Machine Learning (e.g., Scikit-learn)
+- React
+- Machine Learning (e.g., pytesseract, OpenAI)
 - Flask (if a web interface is available)
 
 ## Future Enhancements
